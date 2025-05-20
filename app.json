@@ -1,8 +1,11 @@
 {
   "expo": {
+    "experiments": {
+      "baseUrl": "/kpi-tracker"
+    },
     "name": "kpi-tracker",
     "slug": "snack-22d80058-637f-4947-a102-2e1c43bb886b",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
